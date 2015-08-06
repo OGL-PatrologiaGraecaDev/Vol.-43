@@ -1,0 +1,14 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/43/uva.x000827113/009.png"; bbox 0 0 3802 6134; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1389 2438 2301 2540">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1389 2438 2301 2540">
+     <span class='ocr_line' id='line_1_1' title="bbox 1389 2438 2301 2540; baseline -0.009 0"><span class='ocrx_word' id='word_1_1' title='bbox 1389 2474 1605 2540; x_wconf 58' lang='grc' dir='ltr'><strong>Ξαεςςςετ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1725 2438 2033 2537; x_wconf 44' lang='grc' dir='ltr'><strong>ςῡῖκιρςθίξτ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2170 2458 2301 2535; x_wconf 45' lang='grc' dir='ltr'><strong>εἴηιέ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1446 2595 2153 2741">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1446 2595 2153 2741">
+     <span class='ocr_line' id='line_1_2' title="bbox 1446 2595 2153 2741; baseline -0.001 -61"><span class='ocrx_word' id='word_1_4' title='bbox 1446 2595 1731 2680; x_wconf 40' lang='lat' dir='ltr'><strong>ne“</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1839 2638 2153 2741; x_wconf 46' lang='lat' dir='ltr'><strong>Kuan</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
